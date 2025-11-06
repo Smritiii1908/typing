@@ -1,2 +1,2 @@
-# typing
-typing website
+# Typing-Master
+Improve Your Typing Skills 
